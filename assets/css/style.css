@@ -1,0 +1,31 @@
+body {
+    background: url(../images/bg.png), lightgray 50% / cover no-repeat;
+}
+
+.main-card {
+    width: 70%;
+    height: 70vh;
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    flex-shrink: 0;
+    border-radius: 25px;
+    background: #ECECEC;
+}
+
+.left-card-border {
+    width: 65px;
+    height: 100%;
+    flex-shrink: 0;
+    border-radius: 25px 0px 0px 25px;
+    background: #5BB0FF;
+}
+
+.woman-pointing {
+    width: 441px;
+    height: 70%;
+    flex-shrink: 0;
+    background: url(../images/woman_pointing.png), cover no-repeat;
+}

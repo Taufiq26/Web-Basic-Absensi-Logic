@@ -1,0 +1,1 @@
+Figma Design : https://www.figma.com/file/WYf3YOwhcKpVqTyIUOzUVQ/Website-Absensi-Logic?type=design&node-id=3%3A11&mode=dev
